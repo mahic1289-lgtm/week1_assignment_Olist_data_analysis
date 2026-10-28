@@ -18,4 +18,4 @@ env/
 Thumbs.db
 
 # Local datasets
-data/
+01_data/
