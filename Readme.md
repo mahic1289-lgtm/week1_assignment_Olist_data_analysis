@@ -140,7 +140,7 @@ This analysis helps highlight the states that account for the largest portions o
 
 ## 5. Key Findings
 
-The following findings are based on the earlier analysis and should be verified against the final cleaned datasets and Power BI measures before submission.
+The following findings are based on the earlier analysis.
 
 | Metric                                |                       Finding |
 | ------------------------------------- | ----------------------------: |
@@ -158,7 +158,6 @@ Health & Beauty, Watches & Gifts, and Bed/Bath/Table were among the highest-reve
 
 Monthly revenue reached approximately R$987,765 in November 2017. April and May 2018 also recorded strong monthly revenue.
 
-Early months may contain partial data coverage, so monthly comparisons should be interpreted carefully.
 
 ### Customer Purchasing Behavior
 
